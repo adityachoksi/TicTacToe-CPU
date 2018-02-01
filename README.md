@@ -1,0 +1,3 @@
+# TicTacToe-CPU# TicTacToe-CPU
+
+This project involves the implementation of the tic tac toe game, which is pretty simple, and the creation of CPU player that the human player tries to beat. The CPU can never lose, and the best outcome for the human player is a tie. The algorithm that the CPU uses assigns numeric values to tiles when they have an x or o in them. By adding up the values of tiles, it knows when it risks losing, or has an opportunity to win. Also, I studied some of the theory behind a perfect tic tac toe strategy(I miss when this game was lighthearted fun), and took this into account when creating the logic used for the first couple moves.
